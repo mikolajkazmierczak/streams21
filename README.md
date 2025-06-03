@@ -1,5 +1,7 @@
-# streams21
-Przetwarzanie strumieni danych
+# stock-data
+
+Web app for processsing and displaying stock data for direct analysis.\
+This was a task for data streams processing course.
 
 ![chart](showtime.jpg)
 
